@@ -1,0 +1,9 @@
+
+WHITE   10 mins 26s
+BLACK   34 mins 03s
+BLACK   5 mins 55s
+TIE   16 mins 09s
+WHITE   3 mins 58s
+BLACK   0 mins 58s
+BLACK   0 mins 4s
+WHITE   5 mins 13s
